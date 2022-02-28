@@ -27,7 +27,7 @@ Watch Lectures
 
 Group chat
 
-![alt text](https://raw.githubusercontent.com/Ellison-Matienzo/hci-assignment1/main/V1_Prototype-Overview.png)
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_Prototype-Overview.png)
 
 ## ⏳ Features to be added
 
