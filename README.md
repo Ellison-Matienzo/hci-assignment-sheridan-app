@@ -51,7 +51,7 @@ Version 2 Prototype Components
 
 Version 2 Prototype Course Pages
 
-![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_CoursePages.png)
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment2/blob/main/V2_CoursePages.png)
 
 Version 2 Prototype Login / Register
 
