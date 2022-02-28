@@ -27,6 +27,8 @@ Watch Lectures
 
 Group chat
 
+![alt text](https://raw.githubusercontent.com/Ellison-Matienzo/hci-assignment1/main/V1_Prototype-Overview.png)
+
 ## ⏳ Features to be added
 
 Voice and video calling - individual and group
