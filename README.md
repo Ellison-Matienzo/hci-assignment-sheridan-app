@@ -27,6 +27,12 @@ Watch Lectures
 
 Group chat
 
+## 🖼️ Images
+
+Version 1 Prototype Overview
+
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V1_Prototype-Overview.png)
+
 Version 2 Prototype Overview
 
 ![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_Prototype-Overview.png)
@@ -34,6 +40,22 @@ Version 2 Prototype Overview
 Version 2 Prototype Flow
 
 ![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_Prototype-Flow.png)
+
+Version 2 Prototype Chat Pages
+
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_ChatPages.png)
+
+Version 2 Prototype Components
+
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_Components.png)
+
+Version 2 Prototype Course Pages
+
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_CoursePages.png)
+
+Version 2 Prototype Login / Register
+
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_LoginRegister.png)
 
 ## ⏳ Features to be added
 
