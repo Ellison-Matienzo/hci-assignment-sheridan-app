@@ -27,7 +27,13 @@ Watch Lectures
 
 Group chat
 
+Version 2 Prototype Overview
+
 ![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_Prototype-Overview.png)
+
+Version 2 Prototype Flow
+
+![alt text](https://github.com/Ellison-Matienzo/hci-assignment1/blob/main/V2_Prototype-Flow.png)
 
 ## ⏳ Features to be added
 
