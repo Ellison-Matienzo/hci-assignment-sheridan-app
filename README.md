@@ -6,7 +6,9 @@ This is an app that allows students to stay updated with their course materials,
 
 [V1 - Intitial Prototype](https://www.figma.com/file/OFdyT3J3Ik9A0cnD0vbpyA/V1---Assignment-1---Sheridan-App-Fig?node-id=0%3A1)
 
-[V2 - Current Prototype](https://www.figma.com/file/M1nII4K7GuDMZJ47i7dYJF/V2---Assignment-2---Sheridan-App-Fig?node-id=0%3A1) (revised UI + usability)
+[V2](https://www.figma.com/file/M1nII4K7GuDMZJ47i7dYJF/V2---Assignment-2---Sheridan-App-Fig?node-id=0%3A1) (revised UI + usability)
+
+[V3 - Current Prototype](https://www.figma.com/file/YSR3D7K0HpPvSbow48u0GX/V3---Assignment-3---Sheridan-App-Fig?node-id=0%3A1) (Added new features)
 
 ## ✨ Features
 Login
